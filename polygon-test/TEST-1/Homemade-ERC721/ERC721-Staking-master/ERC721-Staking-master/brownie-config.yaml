@@ -1,0 +1,7 @@
+dependencies:
+compiler:
+ solc:
+  remappings:
+wallets:
+  from_key: ${PRIVATE_KEY}
+dotenv: .env
